@@ -49,3 +49,16 @@
 - Review lessons from the Challenge Core Curriculum.
 - Review Probability and Statistics concepts.
 - Continue work on final project using real federated learning with a couple Raspberry Pi and a laptop.
+
+## Day 15 (12th july)
+- Review lessons from the Challenge Core Curriculum.
+- Joined #sg_europeers Study Group!
+- Continue work on final project.
+
+## Day 16 (13th july)
+- Review lessons from the Challenge Core Curriculum.
+- Enroll into an intermediate summer course about AI at my University (UNED).
+- Continue work on final project.
+
+## Day 17 (14th july)
+-
