@@ -60,5 +60,7 @@
 - Enroll into an intermediate summer course about AI at my University (UNED).
 - Continue work on final project.
 
-## Day 17 (14th july)
--
+## Day 17 (15th july)
+- Had to take a “day off” yesterday, as I had to travel for work and ended up being a really busy day.
+- Continue work on final project.
+- Attend first class of AI course at UNED: introduction about AI history and general AI concepts.
