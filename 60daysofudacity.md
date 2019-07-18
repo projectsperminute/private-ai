@@ -64,3 +64,16 @@
 - Had to take a “day off” yesterday, as I had to travel for work and ended up being a really busy day.
 - Continue work on final project.
 - Attend first class of AI course at UNED: introduction about AI history and general AI concepts.
+
+## Day 18 (16th july)
+- Join #sg_pytorch-robotics Study Group.
+- Continue work on final project.
+
+## Day 19 (17th july)
+- Roll back to Raspbian Stretch and recompile PyTorch to avoid Raspbian Buster GCC 8.X issues.
+- Continue work on final project.
+
+## Day 20 (18th july)
+- Start reading “Ruined by Design” by Mike Monteiro.
+- Review lessons from the Challenge Core Curriculum.
+- Continue work on final project.
