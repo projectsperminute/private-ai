@@ -77,3 +77,8 @@
 - Start reading “Ruined by Design” by Mike Monteiro.
 - Review lessons from the Challenge Core Curriculum.
 - Continue work on final project.
+
+## Day 21 (19th july)
+- Continue reading “Ruined by Design” by Mike Monteiro.
+- Continue reading “The Algorithmic Foundations of Differential Privacy” by Cynthia Dwork and Aaron Roth.
+- Continue work on final project.
