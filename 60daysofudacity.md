@@ -82,3 +82,13 @@
 - Continue reading “Ruined by Design” by Mike Monteiro.
 - Continue reading “The Algorithmic Foundations of Differential Privacy” by Cynthia Dwork and Aaron Roth.
 - Continue work on final project.
+
+##Day 22 (21th july)
+- Finished reading “Ruined by Design” by Mike Monteiro.
+- Compile PyTorch 1.1.0 on Raspberry Pi.
+- Continue work on final project.
+
+## Day 23 (22th july):
+- Started reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Review course lessons.
+- Continue work on final project.
