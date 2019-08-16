@@ -92,3 +92,41 @@
 - Started reading “Weapons of Math Destruction” by Cathy O’Neil.
 - Review course lessons.
 - Continue work on final project.
+
+## Day 24 (23th july):
+- Continue reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Setup a VS Code workflow with remote tools to code/debug distributed code in Raspberry Pis from my laptop.
+- Fork #sg_pytorch-robotics group project from GitHub, thanks for setting it up @Shashi Gharti! :robot_face:
+- Continue work on final project.
+
+## Day 25 (24th july):
+- Continue reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Attend second class of AI course at UNED: introduction to learning models, neural networks and deep learning. 
+- Continue work on final project.
+
+## Day 26 (25th july):
+- Continue reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Attend third class of AI course at UNED: advanced model theory and error solving.
+
+## Day 27 (26th july):
+- Continue reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Started writing a tutorial about remote workflow and distributed code with VS Code and Rasperry Pi for #sg_pytorch-robotics.
+
+## Day 28 (28th july):
+- Finished reading “Weapons of Math Destruction” by Cathy O’Neil.
+- Continue writing a tutorial about remote workflow and distributed code with VS Code and Rasperry Pi for #sg_pytorch-robotics.
+
+## Day 29 (29th july):
+- Added and configured a new Raspberry Pi. One of mine died last week and replacement order was cancelled, but a friend was kind enough to lend me one.
+- Continue writing a tutorial about remote workflow and distributed code with VS Code and Rasperry Pi for #sg_pytorch-robotics.
+
+## Day 30 (30th july):
+- Continue writing a tutorial about remote workflow and distributed code with VS Code and Rasperry Pi for #sg_pytorch-robotics: added intro to SSH.
+- Review PySyft tutorials from GitHub repo.
+
+## Day 31 (31th july):
+- Couldn't do much today, crazy day at the office :S
+- Continue writing a tutorial about remote workflow and distributed code with VS Code and Rasperry Pi for #sg_pytorch-robotics: added intro to SSH.
+
+## Day 32 (1st august):
+- Attend fourth class of AI course at UNED: social implications of AI.
