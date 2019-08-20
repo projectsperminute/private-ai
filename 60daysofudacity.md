@@ -130,3 +130,25 @@
 
 ## Day 32 (1st august):
 - Attend fourth class of AI course at UNED: social implications of AI.
+
+## Day 33-46 (2nd august – 15th august)
+- Tour time with my band(musickomite.bandcamp.com), I took an AI book (Inteligencia Artificial: Técnicas, métodos y aplicaciones by José T. Palma and Roque Marín Morales) with me to help prepare my september exams and enjoyed it :)
+
+## Day 47 (16th august)
+- Read articles written by classmates at #sg_pytorch-robotics
+
+## Day 48 (17th august)
+- Finished #sg_pytorch-robotics project!
+
+## Day 49 (18th august)
+- Design a logo for #sg_pytorch-robotics
+- Work on troubleshooting section of wiki
+- Add detailed readme to repo.
+
+##Day 50 (19th august):
+- Review course contents to prepare an AI exam at my university.
+- Review group project at #sg_pytorch-robotics, great job!
+
+##Day 51 (20th august):
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
