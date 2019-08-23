@@ -152,3 +152,11 @@
 ##Day 51 (20th august):
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
+
+##Day 52 (21th august):
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
+
+##Day 53 (22th august):
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
