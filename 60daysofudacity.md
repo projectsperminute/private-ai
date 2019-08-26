@@ -172,3 +172,8 @@
 ##Day 56 (25th august):
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
+
+##Day 57 (26th august):
+- Review projects submitted to #project-showcase-challenge. Great work!
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
