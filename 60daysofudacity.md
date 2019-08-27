@@ -177,3 +177,8 @@
 - Review projects submitted to #project-showcase-challenge. Great work!
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
+
+##Day 58 (27th august):
+- Review new projects submitted to #project-showcase-challenge.
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
