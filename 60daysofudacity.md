@@ -148,6 +148,7 @@
 ##Day 50 (19th august):
 - Review course contents to prepare an AI exam at my university.
 - Review group project at #sg_pytorch-robotics, great job!
+Encouraging: @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Nirupama Singh @Elena Kutanov @Ayesha Manzur @Joyce @Suparna S Nair @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil @Ebinbin Ajagun @Sayed Maheen Basheer @Sushil Ghimire @cibaca @Shashi Gharti @Juan Carlos Kuri Pinto @Shivam Raisharma @Ivy @Helena Barmer
 
 ##Day 51 (20th august):
 - Review course contents to prepare an AI exam at my university.
@@ -177,6 +178,7 @@
 - Review projects submitted to #project-showcase-challenge. Great work!
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
+Encouraging: @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Nirupama Singh @Elena Kutanov @Ayesha Manzur @Joyce @Suparna S Nair @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil @Ebinbin Ajagun @Sayed Maheen Basheer @Sushil Ghimire @cibaca @Shashi Gharti @Juan Carlos Kuri Pinto @Shivam Raisharma @Ivy @Helena Barmer
 
 ##Day 58 (27th august):
 - Review new projects submitted to #project-showcase-challenge.
