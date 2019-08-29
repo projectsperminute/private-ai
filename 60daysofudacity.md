@@ -1,29 +1,8 @@
 # 60daysofudacity
 Note: please note that most final project code was tranfered to [#sg_pytorch-robotics Study Group repository](https://github.com/shashigharti/federated-learning-on-raspberry-pi).
 
-## Day 1:
-- Day missing from slack messages :(
-
-## Day 2:
-- Day missing from slack messages :(
-
-## Day 3:
-- Day missing from slack messages :(
-
-## Day 4:
-- Day missing from slack messages :(
-
-## Day 5:
-- Day missing from slack messages :(
-
-## Day 6:
-- Day missing from slack messages :(
-
-## Day 7:
-- Day missing from slack messages :(
-
-## Day 8:
-- Day missing from slack messages :(
+## Day 1-8:
+- Day completed but missing from slack messages due to message limit :(
 
 ## Day 9 (5th july):
 - Review basic AI concepts from the book “IA, Tecnicas, métodos y aplicaciones” by Jose T Palma and Roque Marín.
