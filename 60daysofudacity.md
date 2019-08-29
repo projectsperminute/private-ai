@@ -1,4 +1,5 @@
 # 60daysofudacity
+Note: please note that most final project code was tranfered to [#sg_pytorch-robotics Study Group repository](https://github.com/shashigharti/federated-learning-on-raspberry-pi).
 
 ## Day 1:
 - Day missing from slack messages :(
@@ -182,5 +183,14 @@ Encouraging: @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Nirupama Sing
 
 ##Day 58 (27th august):
 - Review new projects submitted to #project-showcase-challenge.
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
+
+##Day 59 (28th august):
+- Review new projects submitted to #project-showcase-challenge. Good luck everyone!
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
+
+##Day 60 (29th august):
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
