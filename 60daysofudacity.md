@@ -173,3 +173,8 @@ Encouraging: @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Nirupama Sing
 ## Day 60 (29th august):
 - Review course contents to prepare an AI exam at my university.
 - Continue Intro to AI course (cs271) at Udacity.
+
+## Day 61 (30th august):
+- Celebrate with my friends at #sg_pytorch-robotics, we got 3rd place on #project-showcase-challenge! Honored we got selected between such amazing projects!
+- Review course contents to prepare an AI exam at my university.
+- Continue Intro to AI course (cs271) at Udacity.
